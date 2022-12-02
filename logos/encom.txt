@@ -1,0 +1,14 @@
+[1;37m
+' .;cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ .dNklllllllllldK0ollldKMMMXxldKMNOdlllllllod0WMWKkollllllod0NMXxllloOWMMMXxllll
+ .kX:   .......,ko     :XMMO. .xKc.  ......  .dNk'   .....  .cXO.    'OMMWd.    
+ .kX:  ,OKXXXKKXNo      oNMO' .dx. .dKXXXX0:  ,k:  ;kKXXX0o. .kO. ..  cNMK,  .  
+ .kX:  ,0NNNNNNWWo  .'  .xWO' .dx. cNMMMMMWO:,oO; .dWMMMMMK, .kO. 'c. .kWo  'c. 
+ .kX:   .''''''dNo  ,x;  'OO' .dx. cNMMMMMMMWWWX; .dMMMMMMK, .kO. ,k:  :x' .ox. 
+ .kX:  .cllllloONo  ,KO'  :d' .dx. :NMMMMMM0olx0: .xMMMMMMK; .xO. ,Kk. ..  ;Kk. 
+ .kX:  ;XMMMMMMMWo  ,KWx.  '. .dx. ,KMMMMMWo  'k:  lNMMMMMO' .kO. ,KNc    .xWk. 
+ .kX:  .cooooooxKo  ,KMNl     .dO.  'lodddl.  ;0l  .;lddoc.  .OO. ,KMO'   :XMk. 
+ .kNl..........'kd..:XMMXc....'kNk;..........c0WKo'.........;kW0,.:KMWd..'kMMk. 
+. ;xdoooooooooooxxoodkOOOxoooooxOOkdoooooooodkOOOOxoooooooodkOOkdodkOOxoodkOx; .
+c    ....  .. ..................... ........  ...  ... .. .. ... ..... ....    c
+[0;37m
